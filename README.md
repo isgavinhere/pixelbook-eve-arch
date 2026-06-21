@@ -19,24 +19,24 @@ Once it's installed, follow the steps here to get audio working. You may need to
 To get the keyboard shortcuts remapped. Place the 61-eve-keyboard.hwdb file in this repo into your /etc/udev/hwdb/ directory and run systemd-hwdb update. Again you may need to reboot the laptop for it to reflect on your keyboard.
 
 WORKING:
-Wifi
-Sound from speakers
-Sound from USBC headphones
-Touchscreen
-Keyboard and mouse autodisable when in tablet mode
-Accelorometer in tablet mode
-Suspend
-Webcam
-Screen autobrightness (Though a bit distracting so I have it disabled from GNOME settings)
-Screen brightness
-Keyboard brightness
+- Wifi
+- Sound from speakers
+- Sound from USBC headphones
+- Touchscreen
+- Keyboard and mouse autodisable when in tablet mode
+- Accelorometer in tablet mode
+- Suspend
+- Webcam
+- Screen autobrightness (Though a bit distracting so I have it disabled from GNOME settings)
+- Screen brightness
+- Keyboard brightness
 
 NOT TESTED (YET):
-Bluetooth
-USBC display out
+- Bluetooth
+- USBC display out
 
 TODO:
-Enable secureboot
-Have TPM unlock the LUKS partition automatically (May not be possible as the chromebook does not expose the full TPM2 functionality)
-Fix USBC PD fast charging (It appears to charge at a very slow rate but fast charging works when laptop is shutdown)
+- Enable secureboot
+- Have TPM unlock the LUKS partition automatically (May not be possible as the chromebook does not expose the full TPM2 functionality)
+- Fix USBC PD fast charging (It appears to charge at a very slow rate but fast charging works when laptop is shutdown)
 
