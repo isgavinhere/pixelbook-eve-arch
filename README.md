@@ -21,6 +21,10 @@ To get the keyboard shortcuts remapped. Place the 61-eve-keyboard.hwdb file in t
 WORKING:
 Wifi
 Sound from speakers
+Sound from USBC headphones
+Touchscreen
+Keyboard and mouse autodisable when in tablet mode
+Accelorometer in tablet mode
 Suspend
 Webcam
 Screen autobrightness (Though a bit distracting so I have it disabled from GNOME settings)
